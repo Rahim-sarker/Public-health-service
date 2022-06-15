@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Dhaka Medical College Hospital",
+    "address": "Dhaka Ramna",
+    "email": "dmch@hospi.dghs.gov.bd",
+    "phone": "55165130-43",
+    "image": "https://www.geoconcernseducation.com/wp-content/uploads/2020/12/Dhaka-Medical-College.jpg",
+    "description": "Dhaka Medical College Hospital (DMCH) is the oldest tertiary-level hospital located at the heart of Dhaka., Bangladesh. This hospital started its journey on 10 July 1946 as 200 bedded field hospital for the British Indian armed forces. The first superintend of this hospital was British major WJ Virgin MIS and the next superintend was colonel E.G. Montogomery."
+  },
+  {
+    "id": 2,
+    "name": "Sir Salimullah Medical College",
+    "address": "Mitford, Dhaka -1100",
+    "email": "smc@hospi.dghs.gov.bd",
+    "phone": "7312398",
+    "image": "https://www.geoconcernseducation.com/wp-content/uploads/2020/12/Sir-Salimullah-Medical-College.jpg",
+    "description": "Sir Salimullah Medical College was established in 1875 as Dhaka Medical School in the old part of Dhaka city. Mitford hospital was a part of the school. Sixteen local kings and philanthropists helped in erecting the medical school building in 1889."
+  },
+  {
+    "id": 3,
+    "name": "Shaheed Suhrawardy Medical College",
+    "address": "Sher-E-Bangla Nagar, Dhaka-1207",
+    "email": "smc@hospi.dghs.gov.bd",
+    "phone": "02-8144048",
+    "image": "https://www.geoconcernseducation.com/wp-content/uploads/2020/12/Shaheed-Suhrawardy-Medical.jpg",
+    "description": "Shaheed Suhrawardy Medical College was inaugurated on 6th May, 2006. It is the 14th Government Medical College in Bangladesh. This medical college is situated in the ‘Zone of Medical Institution’ at Sher-E-Bangla Nagar, Dhaka and is surrounded by NICVD, NIO, NIKDU, NITOR, NIMH and ICH."
+  },
+  {
+    "id": 4,
+    "name": "Bangabandhu Sheikh Mujib Medical University-BSMMU",
+    "address": "Dhaka Bangladesh",
+    "email": "registrar@bsmmu.edu.bd",
+    "phone": "02-9661051",
+    "image": "https://www.bhorerkagoj.com/wp-content/uploads/2021/02/965-1.jpg",
+    "description": "Bangabandhu Sheikh Mujib Medical University (BSMMU) is the premier Postgraduate Medical Institution of the country. It bears the heritage to Institute of Postgraduate Medical Research (IPGMR) which was established in December 1965."
+  },
+  {
+    "id": 5,
+    "name": "National Institute of Neurosciences & Hospital",
+    "address": " Agargoan, Dhaka",
+    "email": "nins_hospital@yahoo.com",
+    "phone": "02-9145908",
+    "image": "https://bengali.cdn.zeenews.com/bengali/sites/default/files/2020/04/24/245973-untitled-1.jpg",
+    "description": "National Institute of Neurosciences & Hospital (NINS) is a state run tertiary care institute in Bangladesh focused on neurological disorders. It is located at Agargaon in Dhaka. The institute started its journey in September 2012.This Institute was inaugurated by Prime Minister Sheikh Hasina"
+  },
+  {
+    "id": 6,
+    "name": "BIRDEM General Hospital",
+    "address": " Shahbag Square,Dhaka 1000",
+    "email": "birdem_hospital@yahoo.com",
+    "phone": "02-9661551",
+    "image": "https://4.bp.blogspot.com/-1tCw5SEsLFc/V4xwrvncrPI/AAAAAAAAJK4/16WY3dEiHPUuQVu_p-F9n24WTb7K2hkHQCLcB/s1600/birdem.JPG",
+    "description": "The Diabetic Association of Bangladesh (Bengali acronym Bangladesh Diabetic Somiti- BADAS) was established on 28 February 1956 in Dhaka at the initiative of the late National Professor Dr Muhammad Ibrahim (1911-1989) and a group of social workers, philanthropists, physicians and civil servants."
+  }
+]
